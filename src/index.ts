@@ -36,7 +36,7 @@ app.use(express.json());
 app.listen(PORT, () => {
   console.log(`Executando na porta ${PORT}`);
   // Escreva aqui a sua msg para o mundo
-  console.log("Hello World!");
+  console.log("Cheguei meu Povo!");
 });
 
 // Hello Worlrd Printado na tela
